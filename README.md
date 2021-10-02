@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Christian Paulo.</h1>
 <h3 align="center">Software Developer</h3>
 
-<h3 align="left">About me: <a target="_blank" href="https://moises-portfolio.vercel.app/"><img align="right" src="http://wrinfoteam.com.br/developer_cp.svg" width="340" height="310" alt="christianpaulo" /> </a></h3>
+<h3 align="left">About me: <a target="_blank" href="http://christianpaulodev.wrinfoteam.com.br"><img align="right" src="http://wrinfoteam.com.br/developer_cp.svg" width="340" height="310" alt="christianpaulo" /> </a></h3>
 <p>-  My name is Christian Paulo da Costa Almeida, I'm 19 years old, I'm studying Computer Science and English. I'm a Web Developer and Graphic/Motion Designer and computer technician. </p>
 <p>- My favorite technologies: React, Javascript e CSS  </p>
 
@@ -10,7 +10,7 @@
 <p align="left">
     <a href="http://christianpaulodev.wrinfoteam.com.br" target="_blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-blue" height="30" width="110" /></a>
       <a href="https://github.com/christianPauloDev" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" width="110" /></a>
-<a href="https://linkedin.com/in/moisés-medeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="moisés-medeiros" height="30" width="110" /></a>
+<a href="https://www.linkedin.com/in/christian-paulo-966b66185/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="christian-paulo" height="30" width="110" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +36,7 @@
 <br/>
 
 <p>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianPauloDev&show_icons=true&locale=en&layout=compact" alt="moisesmed" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianPauloDev&show_icons=true&locale=en&layout=compact" alt="christianpaulodev" />
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=christianPauloDev&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
 
